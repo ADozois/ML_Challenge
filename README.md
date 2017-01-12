@@ -1,4 +1,4 @@
-# ML Challenge <img src="/robot.png" width="60" vertical-align="bottom">
+# ML Challenge <img src="/robot.png" width="60" vertical-align="bottom"> <img src="https://travis-ci.org/banctilrobitaille/ML_Challenge.svg?branch=master"> 
 
 #### How to contribute ?
 - [X] Create a branch by feature and/or bug fix
